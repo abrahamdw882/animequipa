@@ -13,7 +13,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://github.com/viplove3541"
+          href="https://github.com/Xerabmulac/"
           target="_blank"
           rel="noreferrer"
         >
@@ -25,7 +25,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.linkedin.com/in/viplove-kale-42032283/"
+          href="https://www.linkedin.com/"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.instagram.com/viplove_18/"
+          href="https://www.instagram.com/"
           target="_blank"
           rel="noreferrer"
         >
@@ -49,7 +49,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.facebook.com/viplove.kale1"
+          href="https://www.facebook.com/profile.php?id=100069572806122/"
           target="_blank"
           rel="noreferrer"
         >
