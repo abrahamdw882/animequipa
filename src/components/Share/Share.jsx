@@ -6,7 +6,7 @@ export default function Share(props) {
     <div className="share-app d-flex a-center f-poppins" style={props?.style}>
       <img src={share} alt="share" />
       <div>
-        <p className="primary">Share AnimeZ...</p>
+        <p className="primary">Share AnimXer...</p>
         <p>with your friends</p>
       </div>
     </div>
