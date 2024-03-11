@@ -35,8 +35,8 @@ export default function Footer() {
       <div className="alphabet-list d-flex">{links}</div>
       <div className="copyright-text">
         <p>
-          <strong><a href="#">AnimXer</a></strong> Stream for free without ads! The source code is by <a
-          target="_blank" rel="noopener noreferrer" href="https://github.com/viplove3541">Viplove Kale</a>. Credits to Jikan and Kitsu for the API.
+          <strong><a href="#">AnimXer</a></strong> Stream for free without ads! Please Support Me On Facebook Page  <a
+          target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100069572806122">ANIMXER</a>. .
         </p>
         <p>&copy; {new Date().getFullYear()} AnimXer All rights reserved.</p>
       </div>
