@@ -35,10 +35,10 @@ export default function Footer() {
       <div className="alphabet-list d-flex">{links}</div>
       <div className="copyright-text">
         <p>
-          <strong><a href="#">AnimXer</a></strong> Stream for free without ads! Please Support Me On Facebook Page  <a
-          target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100069572806122">ANIMXER</a>. .
+          <strong><a href="#">AB-ANIME</a></strong> Stream for free without ads! Please Support me okay  <a
+          target="_blank" rel="noopener noreferrer" href="https://ab-web.vercel.app">AB-ANIME-STREAM</a>. .
         </p>
-        <p>&copy; {new Date().getFullYear()} AnimXer All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} AB ANIME  STREAMER All rights reserved.</p>
       </div>
     </div>
   );
