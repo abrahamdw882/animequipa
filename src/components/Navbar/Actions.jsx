@@ -18,7 +18,7 @@ export default function Actions({ isInSidebar }) {
     >
       <span>
         <a
-          href="https://aniwatch.to/watch2gether"
+          href="https://ab-anime-streamer.pages.dev"
           target="_blank"
           rel="noreferrer"
         >
@@ -27,7 +27,7 @@ export default function Actions({ isInSidebar }) {
         </a>
       </span>
       <span>
-        <Link to="/details/random" href="https://twitter.com/AniWatchGo">
+        <Link to="/details/random" href="ab-web.vercel.app">
           <FaRandom size={20} />
           <p>Random</p>
         </Link>
@@ -35,7 +35,7 @@ export default function Actions({ isInSidebar }) {
       {!isInSidebar && (
         <span>
           <a
-            href="https://aniwatch.to/community/board"
+            href="https://ab-web.vercel.app"
             target="_blank"
             rel="noreferrer"
           >
