@@ -13,11 +13,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://github.com/Xerabmulac/"
+          href="https://wa.me/233533763772"
           target="_blank"
           rel="noreferrer"
         >
-          <FaGithub size={22} />
+          <FaWhatsapp size={22} />
         </a>
       </span>
       <span
