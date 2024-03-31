@@ -104,9 +104,9 @@ export default function NavSidebar(props) {
         <SocialLinks/>
         <div className="copyright-text">
         <p>
-          <strong><a href="/">AnimXer</a></strong> Stream for free without ads! Please Support Me On Facebook Page<a
-          target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/profile.php?id=100069572806122">ANIMXER</a>.         </p>
-        <p>&copy; {new Date().getFullYear()} AnimXer All rights reserved.</p>
+          <strong><a href="#">AB-ANIME-STREAM</a></strong> Stream for free without ads! Please Support Me OKAY<a
+          target="_blank" rel="noopener noreferrer" href="https://wa.me/233533763772">AB-ANIME-STREAMER</a>.         </p>
+        <p>&copy; {new Date().getFullYear()} Abraham Dwamena all right reserved.</p>
       </div>
       </div>
     </div>
