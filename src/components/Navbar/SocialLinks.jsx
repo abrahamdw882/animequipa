@@ -17,7 +17,7 @@ export default function SocialLinks() {
           target="_blank"
           rel="noreferrer"
         >
-          <FaWhatsapp size={22} />
+          <Fawhatsapp size={22} />
         </a>
       </span>
       <span
