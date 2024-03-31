@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  FaGithub,
+  FaWhatsapp,
   FaLinkedin,
   FaInstagram,
   FaFacebookF,
@@ -17,7 +17,7 @@ export default function SocialLinks() {
           target="_blank"
           rel="noreferrer"
         >
-          <Fawhatsapp size={22} />
+          <FaWhatsapp size={22} />
         </a>
       </span>
       <span
