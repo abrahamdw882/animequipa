@@ -49,7 +49,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.facebook.com/profile.php?id=100069572806122/"
+          href="https://www.facebook.com"
           target="_blank"
           rel="noreferrer"
         >
